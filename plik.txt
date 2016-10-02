@@ -1,4 +1,4 @@
 Jest to plik utworzony na branchu nowa galaz.
 
-Krotka notka zrobiona na masterze.
+Krotka notka zrobiona na drugiej galezi.
 
