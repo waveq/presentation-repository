@@ -1,0 +1,3 @@
+Jest to plik utworzony na branchu nowa galaz.
+
+Krotka notka.
