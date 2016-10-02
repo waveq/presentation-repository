@@ -1,0 +1,3 @@
+Plik utworzony w branchu innym niz master.
+
+Krotka notka.
